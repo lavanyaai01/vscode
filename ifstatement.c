@@ -1,5 +1,5 @@
 # include<stdio.h>
-int main ()
+int positive ()
 {
     int a;
     printf("Enter the value of a:\n");
