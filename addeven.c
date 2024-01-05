@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int add()
 {
     int a;
     printf("Enter the value of a:\n");
@@ -13,4 +13,4 @@ int main()
         printf("The value is Odd");
     }
     return 0;
-}
+}  
